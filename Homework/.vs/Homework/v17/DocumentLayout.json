@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29DC0E5B-4F53-40D2-95AB-EF25FC957F0C}|FirstHomework\\FirstHomework.vcxproj|D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC0E5B-4F53-40D2-95AB-EF25FC957F0C}|FirstHomework\\FirstHomework.vcxproj|solutionrelative:FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D422ED-82A8-45F3-8E27-8610BCA026B5}|ThirdHomework\\ThirdHomework.vcxproj|D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D422ED-82A8-45F3-8E27-8610BCA026B5}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D422ED-82A8-45F3-8E27-8610BCA026B5}|ThirdHomework\\ThirdHomework.vcxproj|D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D422ED-82A8-45F3-8E27-8610BCA026B5}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7E446C-DFBB-423B-A825-6C3DF7270C3D}|SecondHomework\\SecondHomework.vcxproj|D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\SecondHomework\\find_max_pixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B7E446C-DFBB-423B-A825-6C3DF7270C3D}|SecondHomework\\SecondHomework.vcxproj|solutionrelative:SecondHomework\\find_max_pixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_max.cpp",
+              "DocumentMoniker": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\FirstHomework\\array_max.cpp",
+              "RelativeDocumentMoniker": "FirstHomework\\array_max.cpp",
+              "ToolTip": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\FirstHomework\\array_max.cpp",
+              "RelativeToolTip": "FirstHomework\\array_max.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T13:03:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "find_max_pixel.cpp",
+              "DocumentMoniker": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\SecondHomework\\find_max_pixel.cpp",
+              "RelativeDocumentMoniker": "SecondHomework\\find_max_pixel.cpp",
+              "ToolTip": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\SecondHomework\\find_max_pixel.cpp",
+              "RelativeToolTip": "SecondHomework\\find_max_pixel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T12:11:14.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sparsepoly.hpp",
+              "DocumentMoniker": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.hpp",
+              "ToolTip": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:01:21.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sparsepoly.cpp",
+              "DocumentMoniker": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.cpp",
+              "ToolTip": "D:\\Desktop\\4\uD559\uB1441\uD559\uAE30 \uACFC\uC81C\uC815\uB9AC\\3. \uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\github_data_structure_2025\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T12:01:07.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
