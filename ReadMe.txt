@@ -1,3 +1,3 @@
 Hi 안녕하세요.
 원격저장소 연결 확인
-test
+test test
