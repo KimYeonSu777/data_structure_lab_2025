@@ -8,5 +8,6 @@ D:\opencv\build\include\opencv2\core.hpp(1,1): warning C4819: 현재 코드 페�
 D:\opencv\build\include\opencv2\core.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   (소스 파일 'find_max_pixel.cpp'을(를) 컴파일하는 중)
   
-D:\Desktop\4학년1학기 과제정리\3. 데이터구조및프로그래밍실습\github_data_structure_2025\Homework\SecondHomework\find_max_pixel.cpp(10,11): warning C4101: 'pixel' :참조되지 않은 지역 변수입니다.
-  SecondHomework.vcxproj -> D:\Desktop\4학년1학기 과제정리\3. 데이터구조및프로그래밍실습\github_data_structure_2025\Homework\x64\Debug\SecondHomework.exe
+D:\Desktop\data_structure_lab_2025\Homework\SecondHomework\find_max_pixel.cpp(10,11): warning C4101: 'pixel' :참조되지 않은 지역 변수입니다.
+  LINK : D:\Desktop\data_structure_lab_2025\Homework\x64\Debug\SecondHomework.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  SecondHomework.vcxproj -> D:\Desktop\data_structure_lab_2025\Homework\x64\Debug\SecondHomework.exe
