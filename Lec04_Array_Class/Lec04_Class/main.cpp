@@ -52,7 +52,6 @@ int main() {
 	// 입력받은 값을 선언한 music객체 멤버변수를 하나씩 채우기
 	// 마지막으로 music객체 my_service의 music_list에 push_back()
 
-
 	// search music by title
 	string music_title;
 	cout << "Enter the Music Title: ";
